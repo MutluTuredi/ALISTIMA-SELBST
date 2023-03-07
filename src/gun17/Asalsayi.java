@@ -8,5 +8,8 @@ public class Asalsayi {
         //kalani kontrol etmek
         int i = 2;
 
+        // Birinici Deneme
+
+
     }
 }
