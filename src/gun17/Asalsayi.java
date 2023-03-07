@@ -10,6 +10,8 @@ public class Asalsayi {
 
         // Birinici Deneme
 
+        // Ikinci Deneme
+
 
     }
 }
