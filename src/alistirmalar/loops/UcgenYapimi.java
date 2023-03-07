@@ -1,0 +1,17 @@
+package alistirmalar.loops;
+
+public class UcgenYapimi {
+    public static void main(String[] args) {
+
+        //      numeric    +   numeric       numeric
+        System.out.println(30.50 + 40.50);
+        //    string    +   string  -----> string    concatenation
+        System.out.println("merhaba " + "Ali");
+        //    string + boolean ------>      string
+        System.out.println("merhaba " + true);// merhaba true
+        //     numeric + string ------> string
+        System.out.println(200 + "Merhaba Ali");// 200Merhaba Ali
+        // boolean + number ------> error
+//        System.out.println(true + 200);
+
+    }}
